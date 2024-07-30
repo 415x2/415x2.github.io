@@ -9,9 +9,10 @@
 blockquote,pre{border:1px solid #999;page-break-inside:avoid}
 thead{display:table-header-group}
 img,tr{
-    page-break-inside:avoid;
+    page-break-inside:avoid;}
+img{
+    max-width:100%!important;
     transition:transform 0.25s ease;}
-img{max-width:100%!important}
 img:hover {
     -webkit-transform:scale(1.5);
     transform:scale(1.5);
