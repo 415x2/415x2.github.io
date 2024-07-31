@@ -23,12 +23,12 @@ img{vertical-align:middle}
     max-width:100%;
     height:auto;
     transition:transform 0.25s ease;}
-.img-responsive:hover{
+/*.img-responsive:hover{
     -webkit-transform:scale(1.5);
     transform:scale(1.5);
     position:absolute;
     z-index:10000000000;
-}
+}*/
 .img-rounded{border-radius:2px}
 .img-thumbnail{padding:4px;line-height:1.78;background-color:#fff;border:1px solid #ddd;border-radius:2px;-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;display:inline-block;max-width:100%;height:auto}
 .img-circle{border-radius:50%}hr{margin-top:24px;margin-bottom:24px;border:0;border-top:1px solid #eee}
